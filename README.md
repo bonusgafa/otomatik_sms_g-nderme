@@ -1,1 +1,1 @@
-# otomatik_sms_g-nderme
+# otomatik_sms_gonderme
